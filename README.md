@@ -120,7 +120,7 @@ h1 span{color:var(--pink)}
   color:white;border-radius:30px;padding:35px;
   display:flex;align-items:center;justify-content:space-between;gap:25px;
 }
-.delivery h2{margin:0 0 8px}
+.delivery h2{margin:0 0 8px}01094943440
 .delivery p{margin:0;line-height:1.7;color:#ffe9f1}
 .phone{
   display:inline-flex;padding:14px 18px;border-radius:15px;
@@ -137,3 +137,4 @@ footer strong{color:#ff9fc1}
 @media(max-width:820px){
   .hero-grid{grid-template-columns:1fr}
   .hero-card{transf
+  (01094943440)
